@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-labelledby="title desc">
+  <title id="title">A calm bedtime routine</title><desc id="desc">Original illustration of a crescent moon above a tidy bed and a phone set aside.</desc>
+  <rect width="520" height="320" rx="28" fill="#eaf0ed"/><circle cx="397" cy="80" r="48" fill="#d5e4d9"/><path d="M398 38a45 45 0 1 0 39 68 51 51 0 0 1-39-68" fill="#6c9a7f"/>
+  <circle cx="333" cy="81" r="4" fill="#83a990"/><circle cx="355" cy="54" r="3" fill="#83a990"/><circle cx="451" cy="139" r="4" fill="#83a990"/>
+  <path d="M77 204h350v65H77z" fill="#fffdf8" stroke="#afc9b8" stroke-width="6"/><path d="M77 245h350v39H77z" fill="#87ad95"/><path d="M103 191c0-25 19-40 42-40h68c26 0 43 17 43 42v11H103z" fill="#d8e8dc"/>
+  <path d="M427 199v85m-350-85v85" stroke="#315f52" stroke-width="10" stroke-linecap="round"/><rect x="290" y="169" width="37" height="67" rx="8" fill="#244a42"/><rect x="296" y="177" width="25" height="48" rx="4" fill="#f3f6ef"/><circle cx="308" cy="218" r="2.5" fill="#6c9a7f"/>
+  <path d="M61 285h384" stroke="#6f8e7a" stroke-width="9" stroke-linecap="round"/>
+</svg>

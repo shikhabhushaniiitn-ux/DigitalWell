@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-labelledby="title desc">
+  <title id="title">A focused study session</title><desc id="desc">Original illustration of a notebook, pencil and a small timer on a desk.</desc>
+  <rect width="520" height="320" rx="28" fill="#edf4ef"/><circle cx="420" cy="75" r="47" fill="#d4e7d9"/>
+  <rect x="86" y="89" width="230" height="164" rx="14" fill="#fffdf8" stroke="#b9d3c3" stroke-width="5" transform="rotate(-4 86 89)"/>
+  <path d="M128 133l142-10m-139 38l123-9m-119 37l133-10" stroke="#80a994" stroke-width="8" stroke-linecap="round"/>
+  <path d="M331 107l105 121" stroke="#c9835f" stroke-width="17" stroke-linecap="round"/><path d="M330 105l10 17" stroke="#f0cba7" stroke-width="17"/>
+  <circle cx="388" cy="91" r="43" fill="#fff" stroke="#315f52" stroke-width="8"/><path d="M388 91V64m0 27l22 12" stroke="#315f52" stroke-width="7" stroke-linecap="round"/>
+  <path d="M351 45h74" stroke="#315f52" stroke-width="9" stroke-linecap="round"/><path d="M388 48V34" stroke="#315f52" stroke-width="8"/>
+  <path d="M74 268h365" stroke="#789985" stroke-width="12" stroke-linecap="round"/>
+</svg>

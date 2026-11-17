@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-labelledby="title desc">
+  <title id="title">Protecting personal information online</title><desc id="desc">Original illustration of a shield and lock surrounded by connected account and device symbols.</desc>
+  <rect width="520" height="320" rx="28" fill="#edf4ef"/><circle cx="260" cy="155" r="112" fill="#d8e9dd"/>
+  <path d="M260 65l83 31v62c0 57-35 91-83 116-48-25-83-59-83-116V96z" fill="#2b6656"/><path d="M260 87l61 23v48c0 43-24 69-61 91-37-22-61-48-61-91v-48z" fill="#e9f2ea"/>
+  <rect x="231" y="147" width="58" height="46" rx="9" fill="#315f52"/><path d="M241 147v-15a19 19 0 0 1 38 0v15" fill="none" stroke="#315f52" stroke-width="10"/><circle cx="260" cy="168" r="6" fill="#f6f4e9"/><path d="M260 174v9" stroke="#f6f4e9" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="92" cy="95" r="26" fill="#fff" stroke="#88ad96" stroke-width="5"/><circle cx="428" cy="105" r="26" fill="#fff" stroke="#88ad96" stroke-width="5"/><circle cx="103" cy="240" r="26" fill="#fff" stroke="#88ad96" stroke-width="5"/><circle cx="416" cy="238" r="26" fill="#fff" stroke="#88ad96" stroke-width="5"/>
+  <path d="M112 111l54 23m244-7l-53 20M123 225l49-31m225 26l-48-30" stroke="#79a58a" stroke-width="5" stroke-dasharray="7 10"/>
+  <path d="M82 91h20m-10-10v21m328-2h17m-8-9v18M92 237h22m-11-11v23m303-11h22m-11-11v23" stroke="#315f52" stroke-width="5" stroke-linecap="round"/>
+</svg>

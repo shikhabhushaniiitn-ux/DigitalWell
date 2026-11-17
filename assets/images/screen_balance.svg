@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-labelledby="title desc">
+  <title id="title">Balanced screen-time habits</title><desc id="desc">Original illustration of a phone beside a plant and an open book, suggesting intentional device use.</desc>
+  <rect width="520" height="320" rx="28" fill="#edf4ef"/><circle cx="110" cy="92" r="48" fill="#d1e5d7"/>
+  <rect x="208" y="38" width="112" height="221" rx="22" fill="#244a42"/><rect x="218" y="55" width="92" height="177" rx="12" fill="#fbfcf8"/>
+  <rect x="238" y="75" width="51" height="10" rx="5" fill="#b8d9c5"/><circle cx="264" cy="145" r="35" fill="none" stroke="#d9e8dc" stroke-width="10"/><path d="M264 110a35 35 0 0 1 32 49" fill="none" stroke="#43806a" stroke-width="10" stroke-linecap="round"/><path d="M249 190h31" stroke="#80a994" stroke-width="8" stroke-linecap="round"/>
+  <path d="M91 221c-2-50 5-87 24-123m-20 72c-27-19-38-40-39-65 27 9 43 27 50 52m-10-2c14-28 34-42 61-44-7 27-24 45-58 57" fill="#418060"/>
+  <path d="M61 225h93l-12 40H72z" fill="#c77e60"/>
+  <path d="M342 238c25-53 60-83 111-90v110H342z" fill="#fffdf8" stroke="#c2d9ca" stroke-width="5"/><path d="M342 238c-27-53-60-83-111-90v110h111" fill="#f7f2e4" stroke="#c2d9ca" stroke-width="5"/><path d="M343 237v31" stroke="#8aae98" stroke-width="6"/>
+  <path d="M365 182l61-10m-56 28l56-9" stroke="#a7c9b3" stroke-width="5" stroke-linecap="round"/>
+</svg>
